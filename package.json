@@ -1,7 +1,7 @@
 {
   "name": "@dante/uikit",
   "version": "0.15.0",
-  "description": "Set of UI components for pancake projects",
+  "description": "Set of UI components for dante projects",
   "main": "dist/index.cjs.js",
   "module": "dist/index.esm.js",
   "types": "dist/index.d.ts",
